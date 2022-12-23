@@ -15,7 +15,6 @@
 - `C`, `C++`, `.py`, `.ts` (Used in my course projects and self-driven projects)
 - `SpringBoot`, `Angular`, `Flask`, `AWS`(Framework and other stuff familared during CS study and internship)
 - Reach me: peiyeliuchem@gmail.com
-- Checkout my [Resume](files/Peiye Liu_Resume.pdf)
 
 #### My Current Stack
 - My current focus is back-end development and cloud services development
