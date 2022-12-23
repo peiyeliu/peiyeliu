@@ -26,7 +26,6 @@
 <ul>
   <li><a href="https://clist.by/coder/lpychemistry/">Summary of all my CP profile</a></li>
   <li><a href="https://leetcode.com/lpychemistry/">My LeetCode profile</a></li>
-  <li><a href="https://codeforces.com/profile/peiyeliu">My Codeforces profile</a></li>
 </ul>
 
 <p>Leetcode Stats:</p>
