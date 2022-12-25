@@ -7,7 +7,6 @@
 
 #### Now
 - MS in computer science at University of Southern California (Will Graduate on Dec 2022)
-- Ex-PhD in chemistry at Florida State University
 - Amateur in competitive programming (Still in beginner level, I participate those contests just for fun)
 
 #### Bio
