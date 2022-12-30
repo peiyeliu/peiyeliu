@@ -26,7 +26,7 @@
   <li><a href="https://leetcode.com/lpychemistry/">My LeetCode profile</a></li>
 </ul>
 
-<p>Leetcode Stats:</p>
+<p>Leetcode Stats (Refresh the page again if the image is broken):</p>
 <p float="left">
 <img height="273em" src="https://leetcard.jacoblin.cool/lpychemistry?theme=light&font=Sulphur%20Point&ext=contest" />
 </p>
